@@ -1,8 +1,8 @@
-  - name: Configure Edge Data Store
+  - name: (JA) Configure Edge Data Store
     href: configure-edge-data-store.md
-  - name: Configure Edge Data Store components
+  - name: (JA) Configure Edge Data Store components
     href: configure-edge-data-store-components.md
-  - name: Configure port
+  - name: (JA) Configure port
     href: configure-port.md
-  - name: Delete configuration
+  - name: (JA) Delete configuration
     href: delete-configuration.md

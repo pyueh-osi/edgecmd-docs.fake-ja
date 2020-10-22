@@ -2,7 +2,7 @@
 uid: RetrieveExistingConfiguration1-1-unreleased
 ---
 
-# Retrieve existing configuration
+# (JA) Retrieve existing configuration
 
 Use EdgeCmd utility to view the configuration for each part of the adapter.
 
@@ -19,7 +19,7 @@ edgecmd -port=5591 Configuration <RestOfTheCommand>
   - In *Linux*, add three slashes.<br>
        Example: `TestUser\OilCompany` becomes `TestUser\\\\OilCompany`
 
-## View adapter configuration
+## (JA) View adapter configuration
 
 Complete the following steps to view the configuration for the adapter:
 
@@ -32,7 +32,7 @@ Complete the following steps to view the configuration for the adapter:
   
    Under [Examples](#examples), see **View the configuration of the adapter**.
   
-## View configured components
+## (JA) View configured components
 
 Complete the following steps to view the components currently configured on the adapter:
 
@@ -43,7 +43,7 @@ Complete the following steps to view the components currently configured on the 
    edgecmd Configuration System Components
    ```
   
-## View a specific component configuration
+## (JA) View a specific component configuration
 
 Complete the following steps to view the configuration of a specific component:
 
@@ -56,7 +56,7 @@ Complete the following steps to view the configuration of a specific component:
   
    Under [Examples](#examples), see **View the configuration of the System component**.
 
-## View a specific facet configuration
+## (JA) View a specific facet configuration
 
 Complete the following steps to view the configuration of a specific facet of an adapter component:
 
@@ -69,7 +69,7 @@ Complete the following steps to view the configuration of a specific facet of an
   
    Under [Examples](#examples), see **View the configuration of the Logging facet within the OmfEgress component**.
   
-## View a specific facet entry configuration
+## (JA) View a specific facet entry configuration
 
 Complete the following steps to view the configuration of a specific facet entry of a component:
 
@@ -84,7 +84,7 @@ Complete the following steps to view the configuration of a specific facet entry
 
    Under [Examples](#examples), see **View the configuration of a specific entry in the HealthEndpoints facet within the System component**.
 
-### Examples
+### (JA) Examples
 
 <details>
     <summary>View the configuration of the adapter</summary>

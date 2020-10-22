@@ -1,19 +1,19 @@
-- name: EdgeCmd utility
+- name: (JA) EdgeCmd utility
   href: edgecmd-utility.md
   homepage: edgecmd-utility.md
-- name: Installation
+- name: (JA) Installation
   href: Installation/toc.yml
   topicHref: Installation/installation.md
-- name: Configuration
+- name: (JA) Configuration
   href: Configuration/toc.yml
   topicHref: Configuration/configuration.md
-- name: Administration
+- name: (JA) Administration
   href: Administration/toc.yml
   topicHref: Administration/administration.md
-- name: Reference
+- name: (JA) Reference
   href: Reference/toc.yml
   topicHref: Reference/reference.md
-- name: Release notes
+- name: (JA) Release notes
   href: Release-notes/release-notes.md
-- name: Technical support and feedback
+- name: (JA) Technical support and feedback
   href: ../technical-support-and-feedback.md
