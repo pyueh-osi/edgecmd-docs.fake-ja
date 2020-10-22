@@ -1,8 +1,8 @@
-  - name: (JA) Configure Edge Data Store
+﻿  - name: (日本) Configure Edge Data Store
     href: configure-edge-data-store.md
-  - name: (JA) Configure Edge Data Store components
+  - name: (日本) Configure Edge Data Store components
     href: configure-edge-data-store-components.md
-  - name: (JA) Configure port
+  - name: (日本) Configure port
     href: configure-port.md
-  - name: (JA) Delete configuration
+  - name: (日本) Delete configuration
     href: delete-configuration.md

@@ -1,12 +1,12 @@
----
+﻿---
 uid: RetrieveEdgeCmdUtilityHelp1-0
 ---
 
-# (JA) Retrieve EdgeCmd utility help
+# (日本) Retrieve EdgeCmd utility help
 
 The EdgeCmd utility includes command-line syntax help that can be accessed directly from a command line. 
 
-## (JA) View general help
+## (日本) View general help
 
 Complete the following steps to view help on how to use the Edgecmd utility:
 
@@ -17,7 +17,7 @@ Complete the following steps to view help on how to use the Edgecmd utility:
 	edgecmd Help
 	```
 
-## (JA) View component help
+## (日本) View component help
 
 Complete the following steps to view help for a registered component for Edge Data Store:
 
@@ -33,7 +33,7 @@ Complete the following steps to view help for a registered component for Edge Da
 	**Note:** The help includes examples of commands used to configure the component.
 	
 	
-## (JA) View component facet help
+## (日本) View component facet help
 
 Complete the following steps to view help for a specific facet within a component:
 
@@ -46,9 +46,9 @@ Complete the following steps to view help for a specific facet within a componen
 	
 	For more information, see the example, [Help for the Port facet within the System component](#help-for-the-port-facet-within-the-system-component).
 
-### (JA) Examples
+### (日本) Examples
 
-#### (JA) Help for the System component:
+#### (日本) Help for the System component:
 
 ```bash
 edgecmd Help System
@@ -99,7 +99,7 @@ ComponentType                      [Required] Type of the hosted component.
 Example: ./edgecmd Configuration System Components ComponentId=Modus1 ComponentType=Modbus
 ```
 
-#### (JA) Help for the Port facet within the System component
+#### (日本) Help for the Port facet within the System component
 
 ```bash
 edgecmd Help System Port

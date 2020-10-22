@@ -1,8 +1,8 @@
----
+﻿---
 uid: StartOrStopAComponent1-1
 ---
 
-# (JA) Start or stop a component
+# (日本) Start or stop a component
 
 Complete the following steps to either start or stop an adapter component.
 

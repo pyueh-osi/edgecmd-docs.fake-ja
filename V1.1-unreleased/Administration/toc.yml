@@ -1,4 +1,4 @@
-- name: (JA) Delete configuration
+﻿- name: (日本) Delete configuration
   href: Delete configuration_1-1.md
-- name: (JA) Start or stop a component
+- name: (日本) Start or stop a component
   href: Start or stop a component_1-1.md

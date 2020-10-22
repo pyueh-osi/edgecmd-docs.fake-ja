@@ -1,19 +1,19 @@
-- name: (JA) EdgeCmd utility
+﻿- name: (日本) EdgeCmd utility
   href: edgecmd-utility.md
   homepage: edgecmd-utility.md
-- name: (JA) Installation
+- name: (日本) Installation
   href: Installation/toc.yml
   topicHref: Installation/installation.md
-- name: (JA) Configuration
+- name: (日本) Configuration
   href: Configuration/toc.yml
   topicHref: Configuration/configuration.md
-- name: (JA) Administration
+- name: (日本) Administration
   href: Administration/toc.yml
   topicHref: Administration/administration.md
-- name: (JA) Reference
+- name: (日本) Reference
   href: Reference/toc.yml
   topicHref: Reference/reference.md
-- name: (JA) Release notes
+- name: (日本) Release notes
   href: Release-notes/release-notes.md
-- name: (JA) Technical support and feedback
+- name: (日本) Technical support and feedback
   href: ../technical-support-and-feedback.md

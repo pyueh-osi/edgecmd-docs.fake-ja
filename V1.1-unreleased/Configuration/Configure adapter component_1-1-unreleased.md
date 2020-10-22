@@ -1,8 +1,8 @@
----
+﻿---
 uid: ConfigureAdapterComponent1-1-unreleased
 ---
 
-# (JA) Configure adapter component
+# (日本) Configure adapter component
 
 Use EdgeCmd utility to add and delete adapter components, and to configure facets of the components.
 
@@ -19,7 +19,7 @@ edgecmd -port=5591 Configuration <RestOfTheCommand>
   - In *Linux*, add three slashes.<br>
        Example: `TestUser\OilCompany` becomes `TestUser\\\\OilCompany`
 
-## (JA) Add components
+## (日本) Add components
 
 Complete the following steps to add a new component:
 
@@ -38,7 +38,7 @@ Complete the following steps to add a new component:
 	edgecmd Configuration System Components componentId=Modbus1 componentType=Modbus
 	```
 
-## (JA) Configure a facet of a component
+## (日本) Configure a facet of a component
 
 Adapters have the following configurable facets: data source, data selection, and logging. Complete the following steps to configure a facet:
 
@@ -59,7 +59,7 @@ Adapters have the following configurable facets: data source, data selection, an
 
 For detailed information on how to configure each adapter, see the respective adapter documentation.
 
-## (JA) Delete a component
+## (日本) Delete a component
 
 Complete the following steps to delete a component from the adapter:
 

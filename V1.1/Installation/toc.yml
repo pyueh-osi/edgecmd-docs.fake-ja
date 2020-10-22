@@ -1,8 +1,8 @@
-- name: (JA) System requirements
+﻿- name: (日本) System requirements
   href: system-requirements.md
-- name: (JA) Install EdgeCmd utility
+- name: (日本) Install EdgeCmd utility
   href: install-edgecmd-utility.md
-- name: (JA) Access EdgeCmd utility
+- name: (日本) Access EdgeCmd utility
   href: access-edgecmd-utility.md
-- name: (JA) Uninstall EdgeCmd utility
+- name: (日本) Uninstall EdgeCmd utility
   href: uninstall-edgecmd-utility.md

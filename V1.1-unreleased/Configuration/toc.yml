@@ -1,6 +1,6 @@
-- name: (JA) Configure an adapter within commands
+﻿- name: (日本) Configure an adapter within commands
   href: Configure an adapter within commands_1-1.md
-- name: (JA) Configure an adapter with JSON files
+- name: (日本) Configure an adapter with JSON files
   href: Configure an adapter with JSON files_1-1.md
-- name: (JA) Configure adapter component
+- name: (日本) Configure adapter component
   href: Configure adapter component_1-1.md

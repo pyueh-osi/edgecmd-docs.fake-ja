@@ -1,9 +1,9 @@
-- name: (JA) Retrieve EdgeCmd utility help
+﻿- name: (日本) Retrieve EdgeCmd utility help
   href: retrieve-edgecmd-utility-help.md
-- name: (JA) Retrieve existing configuration
+- name: (日本) Retrieve existing configuration
   href: retrieve-existing-configuration.md
-- name: (JA) Retrieve diagnostics functions
+- name: (日本) Retrieve diagnostics functions
   href: EDS configuration/toc.yml
   topicHref: retrieve-diagnostics-functions.md
-- name: (JA) EdgeCmd commands
+- name: (日本) EdgeCmd commands
   href: edgecmd-commands.md

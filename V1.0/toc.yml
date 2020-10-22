@@ -1,11 +1,11 @@
-- name: (JA) EdgeCmd utility
+﻿- name: (日本) EdgeCmd utility
   href: index.md
-- name: (JA) Installation
+- name: (日本) Installation
   href: Installation/toc.yml
   topicHref: Installation/installation.md
-- name: (JA) Configuration
+- name: (日本) Configuration
   href: Configuration/toc.yml
   topicHref: Configuration/configuration.md
-- name: (JA) Reference
+- name: (日本) Reference
   href: Reference/toc.yml
   topicHref: Reference/reference.md

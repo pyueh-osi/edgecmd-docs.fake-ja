@@ -1,8 +1,8 @@
----
+﻿---
 uid: RetrieveEDSConfiguration1-1
 ---
 
-# (JA) Retrieve EDS configuration
+# (日本) Retrieve EDS configuration
 
 Use EdgeCmd utility to retrieve the configuration of EDS.
 
@@ -12,7 +12,7 @@ Use EdgeCmd utility to retrieve the configuration of EDS.
 edgecmd -port 5591 <RestOfTheCommand>
 ```
 
-## (JA) Retrieve Storage component configuration
+## (日本) Retrieve Storage component configuration
 
 1. Access EdgeCmd utility through the command line.
 2. Run the following command:
@@ -21,7 +21,7 @@ edgecmd -port 5591 <RestOfTheCommand>
     edgecmd get -cid Storage
     ```
 
-## (JA) Retrieve periodic egress endpoints configuration
+## (日本) Retrieve periodic egress endpoints configuration
 
 1. Access EdgeCmd utility through the command line.
 2. Run the following command:
@@ -30,7 +30,7 @@ edgecmd -port 5591 <RestOfTheCommand>
     edgecmd get PeriodicEgressEndpoints
     ```
 
-## (JA) Retrieve runtime configuration
+## (日本) Retrieve runtime configuration
 
 1. Access EdgeCmd utility through the command line.
 2. Run the following command:

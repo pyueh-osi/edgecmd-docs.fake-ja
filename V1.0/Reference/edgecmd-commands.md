@@ -1,12 +1,12 @@
----
+﻿---
 uid: EdgecmdCommands1-0
 ---
 
-# (JA) EdgeCmd commands
+# (日本) EdgeCmd commands
 
 The following tables list the commands available in the EdgeCmd utility. Every EdgeCmd utility command has to be preceded by `edgecmd`.
 
-## (JA) Help
+## (日本) Help
 
 | edgecmd command | Description | Examples |
 |-----------------|-------------|----------|
@@ -15,9 +15,9 @@ The following tables list the commands available in the EdgeCmd utility. Every E
 |`edgecmd Help <componentName> <facetName>`| Display help for a specific facet of an Edge Data store component. | `edgecmd Help System Port`|
 
 
-## (JA) Configuration
+## (日本) Configuration
 
-### (JA) System
+### (日本) System
 
 | edgecmd command | Description | Examples |
 |-----------------|-------------|----------|
@@ -26,7 +26,7 @@ The following tables list the commands available in the EdgeCmd utility. Every E
 |`edgecmd Configuration System Components componentId=<componentId> componentType=<componentType>` | Add a new component.  | `edgecmd Configuration System Components componentId=Modbus1 componentType=Modbus`|
 |`edgecmd Configuration System Components id=<componentId> delete` |Delete a component. | `edgecmd Configuration System Components id=Modbus1 delete` |
 
-### (JA) Components
+### (日本) Components
 | edgecmd command | Description | Examples |
 |-----------------|-------------|----------|
 |`edgecmd Configuration <componentId>` | Display component specific configuration. | `edgecmd Configuration System`<br>or<br>`edgecmd  Configuration OpcUa1`|
@@ -36,7 +36,7 @@ The following tables list the commands available in the EdgeCmd utility. Every E
 |`edgecmd Configuration <componentId> DataSelection` | Configure the data selection for a Modbus TCP EDS adapter component or an OPC UA EDS adapter component. |  |
 |`edgecmd Configuration <componentId> Logging` | Configure logging for a Modbus TCP EDS adapter component or an OPC UA EDS adapter component. |  |
 
-## (JA) Configuration with JSON files
+## (日本) Configuration with JSON files
 | edgecmd command | Description | Examples |
 |-----------------|-------------|----------|
 | `edgecmd Configuration file=<PathToJsonFile>` | Import a bulk configuration through a JSON file. | `edgecmd Configuration file="~/Bulk_Storage_Runtime.json"` |

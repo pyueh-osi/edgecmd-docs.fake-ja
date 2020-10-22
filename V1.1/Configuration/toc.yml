@@ -1,8 +1,8 @@
-- name: (JA) Configure an adapter inside commands
+﻿- name: (日本) Configure an adapter inside commands
   href: configure-an-adapter-inside-commands.md
-- name: (JA) Configure an adapter with JSON files
+- name: (日本) Configure an adapter with JSON files
   href: configure-an-adapter-with-json-files.md
-- name: (JA) Configure adapter component
+- name: (日本) Configure adapter component
   href: configure-adapter-component.md
-- name: (JA) Configure adapter data selection with CSV files
+- name: (日本) Configure adapter data selection with CSV files
   href: configure-adapter-data-selection-with-csv-files.md

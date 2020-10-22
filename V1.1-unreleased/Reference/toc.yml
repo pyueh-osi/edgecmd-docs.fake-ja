@@ -1,6 +1,6 @@
-- name: (JA) Retrieve EdgeCmd utility help
+﻿- name: (日本) Retrieve EdgeCmd utility help
   href: Retrieve EdgeCmd utility help_1-1.md
-- name: (JA) Retrieve existing configuration
+- name: (日本) Retrieve existing configuration
   href: Retrieve existing configuration_1-1.md
-- name: (JA) EdgeCmd commands
+- name: (日本) EdgeCmd commands
   href: EdgeCmd commands_1-1.md

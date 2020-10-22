@@ -1,8 +1,8 @@
----
+﻿---
 uid: ConfigureAdapterDataSelectionWithCSVFiles1-1
 ---
 
-# (JA) Configure adapter data selection with CSV files
+# (日本) Configure adapter data selection with CSV files
 
 Use EdgeCmd utility to import data selection from, and export it into, a CSV (comma-separated value) file.
 
@@ -10,7 +10,7 @@ EdgeCmd utility recognizes the content in CSV format from the specified file pat
 
 **Note:** The CSV file needs to include a header row.
 
-## (JA) Import data selection from a CSV file
+## (日本) Import data selection from a CSV file
 
 Complete the following steps to import data selection from a CSV file
 
@@ -21,7 +21,7 @@ Complete the following steps to import data selection from a CSV file
     edgecmd set DataSelection -cid <componentId> -file <PathToCsvFile> -csv
     ```
 
-## (JA) Export data selection into a CSV file
+## (日本) Export data selection into a CSV file
 
 Complete the following steps to export data selection into a CSV file
 

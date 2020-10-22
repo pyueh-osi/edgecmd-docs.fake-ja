@@ -1,14 +1,14 @@
----
+﻿---
 uid: AccessEdgeCmdUtility1-1-unreleased
 ---
 
-# (JA) Access EdgeCmd utility
+# (日本) Access EdgeCmd utility
 
 To use EdgeCmd utility, you can access it from a command prompt or terminal window.
 
 The following procedures use the default installation location. If you specified a different location during installation, use that location in your commands.
 
-## (JA) Access EdgeCmd utility on Windows
+## (日本) Access EdgeCmd utility on Windows
 
 Complete the following steps to access EdgeCmd utility on Windows:
 
@@ -18,7 +18,7 @@ Complete the following steps to access EdgeCmd utility on Windows:
 
    **Note:** Specify the full path when you use EdgeCmd utility on Windows.
 
-## (JA) Access EdgeCmd utility on Linux
+## (日本) Access EdgeCmd utility on Linux
 
 Complete the following steps to access EdgeCmd utility on Linux:
 
